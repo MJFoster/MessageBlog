@@ -315,7 +315,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\isotype.js" />
     <Content Include="Scripts\jquery-2.0.2.min.map" />
     <Content Include="Content\Template\font-awesome\fontawesome-webfont.eot" />
     <Content Include="Content\Template\font-awesome\fontawesome-webfont.ttf" />
