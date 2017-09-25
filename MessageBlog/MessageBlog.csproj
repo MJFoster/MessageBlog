@@ -218,6 +218,7 @@
     <Content Include="Content\Template\img\facebook.png" />
     <Content Include="Content\Template\img\favicon\favicon.png" />
     <Content Include="Content\Template\img\foot-quote.png" />
+    <Content Include="Content\Template\img\GitHub-Mark-Light-32px.png" />
     <Content Include="Content\Template\img\googleplus.png" />
     <Content Include="Content\Template\img\linkedin.png" />
     <Content Include="Content\Template\img\photos\1.jpg" />
